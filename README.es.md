@@ -1,3 +1,12 @@
+> [!CAUTION]
+> **Este proyecto se trasladó a [ProfileStudio/ProfileStudio](https://github.com/ProfileStudio/ProfileStudio).**
+> Este repositorio está archivado y ya no se actualiza. Para cambiar el plugin de Claude Code:
+>
+> ```text
+> /plugin marketplace add ProfileStudio/ProfileStudio
+> /plugin install profilestudio@profilestudio
+> ```
+
 # Generador de README para perfiles de GitHub
 
 [English](README.md) · **Español**
